@@ -8,7 +8,8 @@
 
 ## Requirements
 - In order to run the contenthash.py, you should follow these steps:
-- ```git clone https://github.com/mfk-dev/ContentHasher.git```
+- ```git clone https://github.com/mfk-dev/LittleProjects.git```
+- ```cd LittleProjects```
 - ```cd ContentHasher```
 - ```python contenthash.py```
 
